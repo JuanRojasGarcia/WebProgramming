@@ -1,0 +1,136 @@
+body{
+    max-width: 1078px;
+	min-height: 1078px;
+	margin: 0px auto;	
+	/*color:#717171;*/
+    color: rgb(236, 235, 235);
+    font-family: 'Roboto Condensed', sans-serif;}
+
+header nav ul{
+    margin-left: 30px;
+}
+
+header nav ul li{
+  padding-left: 10PX;
+  padding-top: 10PX;
+  font-size: 13px;
+  display: inline-block;
+  font-weight: bold;
+  margin-right: 5px;
+
+}
+
+#segundoarticulo{
+    background-color: #45bdb1;
+    height: 40px;
+
+}
+
+#logo{
+    width: 120px;
+    margin-left: 75px;
+}
+
+#canasta{
+    width: 120px;
+    margin-left: 170px;
+}
+
+#busqueda{
+    width: 340px;
+    height: 25px;
+    margin-left: 180px;
+    margin-top: 20px;
+    vertical-align: top;
+    border: 1px solid #dacccc;
+    border-radius: 5px;
+  
+}
+
+#primeraseccion{
+    background-color: #3fc4b6;
+    height: 300px;
+    border-top: 1px solid #299b8e;
+}
+
+#primeraseccion article{
+    display: inline-block;
+    width: 46%;
+}
+
+#tenisarticle img{
+    width: 250px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+#easyarticle{
+    vertical-align: top;
+    padding-top: 60px;
+    padding-left: 75px;
+}
+
+.titulagrande{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.subtitulochico{
+    font-size: 15px;
+}
+
+.feature{
+    font-size: 17px;
+}
+
+#easyarticle input{
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: #3dc4b6;
+    border: 2px solid white;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+#segundoseccion{
+    background-color: #40c5b3;
+    height: 40px;
+    border-top: 1px solid #299b8e;
+  }
+
+#segundoseccion span{
+    position: relative;
+    left: 75px;
+    top: 10px;
+}
+
+/* intentanto ser mas intelijente que guapo */
+
+
+#tercerseccion article{
+	display: inline-block;
+	vertical-align: top;
+    width: 23.8%;
+    margin-left: 70px;
+    margin-top: 40px;
+    text-align: center;    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    height: 275px;
+    border-bottom: 3px solid #3CC395;
+}
+
+#tercerseccion article input{
+    background: #3CC395;
+	border-radius: 5px;
+    color: white;
+    padding: 10px 22px;
+}
+
+#tercerseccion span{
+  color: #665e5e;
+  font-weight: bold;
+}

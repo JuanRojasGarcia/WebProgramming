@@ -1,0 +1,6 @@
+Java Script:
+*Lenguahe de Programacion 
+*Comparte sintaxis de java
+*El uso de punto y coma es opcional 
+*Interaciones de usuairo en la pagina
+*Se requiere la etiqueta <Script> para su uso 

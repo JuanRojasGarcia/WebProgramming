@@ -1,0 +1,37 @@
+ body{
+	/*border: 1px solid blue;*/
+	font-size: 16px; /*1em*/
+	margin: 0px auto;
+	/*Requerimiento del cliente*/
+	max-width: 1078px;
+	min-width: 1078px;
+}
+
+header nav ul li{
+
+	color: black;
+	display: inline-block;
+	font-size: 1.2em;
+	margin-right: 15px;
+	padding-bottom: 2px;
+	/*text-decoration: underline;*/
+}
+h2{
+	color: green;
+}
+#caja{
+	border-top: 1px dashed black;
+}
+#gotoshop{
+	margin-right: -210px;
+	margin-top: 15px;
+}
+#buy{
+	margin-left: 700px;
+	margin-top: -500px;
+}
+#mundos{
+	left: 500px;
+	top: 10px;
+	position: relative;
+}
